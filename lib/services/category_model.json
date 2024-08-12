@@ -1,0 +1,96 @@
+{
+    "categories":[
+        {
+            "name":"Technology and IT",
+            "subcategory":[
+                "Software Development", 
+                "Data Science and Analytics",
+                "Cybersecurity"
+            ]
+        },
+        {
+            "name":"Finance",
+            "subcategory":[
+                "Investment Banking",
+                "Hedge Fund Managment",
+                "Financial Anlysis"
+
+            ]
+        },
+
+        {
+            "name":"Healthcare",
+        "subcategory":[
+            "Surgeons",
+            "Specialists",
+            "Healthcare Management"
+
+        ]  
+    
+    
+        },
+
+        {
+                "name":"Engineering",
+                "subcategory":
+                [
+                    "Petroleum Engineers",
+                    "Aerospace Engineers",
+                    "Electrical Engineers"
+                ]
+
+        },
+
+        {
+            "name":"Consulting",
+            "subcategory": [
+                "Management Consulting",
+                "Strategy Consulting",
+                "IT Consulting"
+
+            ]
+
+        },
+
+        {
+            "name":"Techical Expertise",
+            "subcategory":[
+            "AI/Machine Learning Specialists",
+            "Blockchain Developers",
+            "Cloud Arcitects"
+        ]
+
+        },
+
+        {
+            "name":"Creative Professions",
+            "subcategory":[
+            "Design Directors",
+            "Creative Directors",
+            "Marketing Directors"
+        
+        ]
+        },
+
+        {
+            "name":"Leadership and Management",
+            "subcategory":[
+                "CEOs",
+                "Chief Financial Officers",
+                "Project Managers"
+
+            ]
+        },
+
+        {
+            "name":"Others",
+            "subcategory":[
+                "Lawyers",
+                "University Professors",
+                "Pharmaists"
+
+            ]
+
+        }
+    ]
+}
